@@ -10,7 +10,7 @@
 
 I am passionate about creating interactive and user-friendly web applications. My skills include:
 
-- Frontend Development: React, HTML, CSS, JavaScript
+- Frontend Development: React, HTML, CSS, JavaScript , bootstrap
 - Version Control: Git, GitHub
 - UI Design: Figma.
 
