@@ -17,8 +17,7 @@ I am passionate about creating interactive and user-friendly web applications. M
 ## Projects
 
 🗂️ Explore my projects available in [My Repositories](https://github.com/rahafnasad?tab=repositories).
-👩‍💻 Welcome to my GitHub profile! I have experience with the following technologies:
-
+##Languages and Tools:
 - Data Structure ![Data Structure](https://img.icons8.com/color/48/000000/data-configuration.png)
 - Database ![Database](https://img.icons8.com/color/48/000000/database-restore.png)
 - C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
