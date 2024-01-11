@@ -14,7 +14,7 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 ## Projects
 
-🗂️ Explore my projects available in [My Repositories](https://github.com/YourGitHubUsername?tab=repositories).
+🗂️ Explore my projects available in [My Repositories](https://github.com/rahafnasad?tab=repositories).
 
 ## Contact
 
