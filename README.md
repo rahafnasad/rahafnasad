@@ -20,10 +20,6 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 📧 Feel free to reach out to me:
 
-- Email: your.email@example.com
-- LinkedIn: [Rahaf Hussein](https://www.linkedin.com/in/your-linkedin-profile)
-- Portfolio: [Your Portfolio](https://your-portfolio-url.com)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/your-linkedin-profile) [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:your.email@example.com) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/your.facebook.profile) [<img src="https://img.icons8.com/color/48/000000/instagram.png"/>](https://www.instagram.com/your.instagram.profile)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/rahaf-as-ad-b42250292/)) [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:rahafnasad@gmail.com) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>]([https://www.facebook.com/your.facebook.profile](https://www.facebook.com/profile.php?id=100015489611299)) [<img src="https://img.icons8.com/color/48/000000/instagram.png"/>](https://www.instagram.com/your.instagram.profile)
 
-Let's connect and collaborate on exciting projects together!
 Let's connect and collaborate on exciting projects together!
