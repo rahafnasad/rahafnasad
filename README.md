@@ -18,11 +18,7 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 🗂️ Explore my projects available in [My Repositories](https://github.com/rahafnasad?tab=repositories).
 ## Languages and Tools:
- ![Data Structure](https://img.icons8.com/color/48/000000/data-configuration.png)   ![Database](https://img.icons8.com/color/48/000000/database-restore.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/48/000000/react-native.png)
--  - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+ ![Data Structure](https://img.icons8.com/color/48/000000/data-configuration.png)   ![Database](https://img.icons8.com/color/48/000000/database-restore.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ## Contact
 
 📧 Feel free to reach out to me:
