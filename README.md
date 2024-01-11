@@ -18,12 +18,7 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 🗂️ Explore my projects available in [My Repositories](https://github.com/rahafnasad?tab=repositories).
 ## Languages and Tools:
- ![Data Structure](https://img.icons8.com/color/48/000000/data-configuration.png)   ![Database](https://img.icons8.com/color/48/000000/database-restore.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)![HTML](https://img.icons8.com/color/48/000000/html-5.png)
- - C# ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-- Visual Studio Blue ![Visual Studio Blue](https://img.icons8.com/fluency/48/000000/visual-studio.png)
-- Visual Studio Purple ![Visual Studio Purple](https://img.icons8.com/fluency/48/000000/visual-studio.png)
-- Oracle ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
-- VHDL ![VHDL](https://img.icons8.com/color/48/000000/fpga.png)
+ ![Data Structure](https://img.icons8.com/color/48/000000/data-configuration.png)   ![Database](https://img.icons8.com/color/48/000000/database-restore.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![Visual Studio Blue](https://img.icons8.com/fluency/48/000000/visual-studio.png)   ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)
 ## Contact
 
 📧 Feel free to reach out to me:
