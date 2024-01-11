@@ -1,4 +1,4 @@
-# Rahaf Hussein - Frontend Developer
+# Hi , I am Rahaf Hussein . - Frontend Developer
 
 ![Header](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)
 
@@ -10,7 +10,7 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 - Frontend Development: React, HTML, CSS, JavaScript
 - Version Control: Git, GitHub
-- UI/UX Design: Figma, Adobe XD
+- UI Design: Figma.
 
 ## Projects
 
@@ -23,5 +23,7 @@ I am passionate about creating interactive and user-friendly web applications. M
 - Email: your.email@example.com
 - LinkedIn: [Rahaf Hussein](https://www.linkedin.com/in/your-linkedin-profile)
 - Portfolio: [Your Portfolio](https://your-portfolio-url.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/your-linkedin-profile) [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:your.email@example.com) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/your.facebook.profile) [<img src="https://img.icons8.com/color/48/000000/instagram.png"/>](https://www.instagram.com/your.instagram.profile)
 
+Let's connect and collaborate on exciting projects together!
 Let's connect and collaborate on exciting projects together!
