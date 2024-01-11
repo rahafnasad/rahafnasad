@@ -25,6 +25,10 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/rahaf-as-ad-b42250292/) [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:rahafnasad@gmail.com) [<img src="https://img.icons8.com/color/48/000000/facebook.png"/>](https://www.facebook.com/profile.php?id=100015489611299) [<img src="https://img.icons8.com/color/48/000000/instagram.png"/>](https://www.instagram.com/rahafnasad/)
 
+## GitHub Statistics
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahafnasad&show_icons=true&theme=radical)
 
 
 Let's connect and collaborate on exciting projects together!
