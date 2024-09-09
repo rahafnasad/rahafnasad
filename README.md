@@ -1,7 +1,8 @@
 
+
+<p align="center">
 ![2422519_51e7d](https://github.com/user-attachments/assets/82124646-74d8-4806-8b8f-965128a63d3f)
-
-
+</p>
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/e83165e6-f20c-431c-afd1-f6b7f7c4713a)
 
 # Hi , I am Rahaf Hussein  - Frontend Developer 👋
