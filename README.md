@@ -1,4 +1,3 @@
-![32](https://github.com/user-attachments/assets/372371dc-4bf5-4652-b1a6-5c064bbeaf15)
 
 
 
