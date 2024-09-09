@@ -2,7 +2,6 @@
 
 # Hi , I am Rahaf Hussein  - Frontend Developer 👋
 
-![Header](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/e83165e6-f20c-431c-afd1-f6b7f7c4713a)
 
 👩‍💻 Welcome to my GitHub profile! I am Rahaf Hussein, a recent graduate in Computer Systems Engineering from Palestine Technical University, Kadoorie. As a frontend developer, I specialize in React.
