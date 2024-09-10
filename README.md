@@ -1,4 +1,5 @@
-![icegif-316](https://github.com/user-attachments/assets/58b99f84-b417-44db-966b-3b5292876963)
+
+![e62083244f28ed2024a09ac52db6bceb](https://github.com/user-attachments/assets/bccc1663-32bf-4504-915d-d9114004bd42)
 
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/e83165e6-f20c-431c-afd1-f6b7f7c4713a)
 
