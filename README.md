@@ -38,7 +38,7 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahafnasad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=rahafnasad&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="rahafnasad" style="padding-right:20px;" />
 </p>
 
 Let's connect and collaborate on exciting projects together!
