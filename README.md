@@ -1,5 +1,8 @@
 
 ![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/e83165e6-f20c-431c-afd1-f6b7f7c4713a)
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/rahafnasad/count.svg" />
+</p>
 
 # Hi , I am Rahaf Hussein  - Frontend Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
