@@ -37,5 +37,6 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 Let's connect and collaborate on exciting projects together!
 
+[![](https://visitcount.itsvg.in/api?id=rahafnasad&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
