@@ -29,7 +29,9 @@ I am passionate about creating interactive and user-friendly web applications. M
 
 <!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahafnasad&show_icons=true&theme=radical)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahafnasad&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahafnasad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
