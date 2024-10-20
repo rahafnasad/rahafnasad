@@ -22,6 +22,11 @@ I am passionate about creating interactive and user-friendly web applications. M
 🗂️ Explore my projects available in [My Repositories](https://github.com/rahafnasad?tab=repositories).
 ## Languages and Tools:
  ![Data Structure](https://img.icons8.com/color/48/000000/data-configuration.png)   ![Database](https://img.icons8.com/color/48/000000/database-restore.png)  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![Visual Studio Blue](https://img.icons8.com/fluency/48/000000/visual-studio.png)   ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 ## Contact
 
 📧 Feel free to reach out to me:
@@ -41,6 +46,4 @@ I am passionate about creating interactive and user-friendly web applications. M
 </p>
 
 Let's connect and collaborate on exciting projects together!
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-
 
